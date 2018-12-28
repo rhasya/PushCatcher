@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushCatcher</string>
+    <string name="setting_name">알림 설정</string>
+    <string name="test_button_name">테스트</string>
+</resources>
